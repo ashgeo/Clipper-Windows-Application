@@ -1,0 +1,38 @@
+c:\users\decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\bin\Debug\Clipper CRM Software.exe.config
+c:\users\decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\bin\Debug\Clipper CRM Software.exe
+c:\users\decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\bin\Debug\Clipper CRM Software.pdb
+c:\users\decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\obj\Debug\Clipper CRM Software.csprojResolveAssemblyReference.cache
+c:\users\decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\obj\Debug\Clipper_CRM_Software.Login.resources
+c:\users\decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\obj\Debug\Clipper_CRM_Software.Properties.Resources.resources
+c:\users\decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\obj\Debug\Clipper CRM Software.csproj.GenerateResource.Cache
+c:\users\decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\obj\Debug\Clipper CRM Software.exe
+c:\users\decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\obj\Debug\Clipper CRM Software.pdb
+C:\Users\Decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\bin\Debug\System.Web.Http.dll
+C:\Users\Decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\Decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\bin\Debug\System.Web.Http.xml
+C:\Users\Decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\Decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\obj\Debug\Clipper_CRM_Software.Admin_Control_Panel.resources
+C:\Users\Decor\documents\visual studio 2015\Projects\Clipper CRM Software\Clipper CRM Software\obj\Debug\Clipper_CRM_Software.ManagerPanel.resources
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\bin\Debug\Clipper CRM Software.exe.config
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\bin\Debug\Clipper CRM Software.exe
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\bin\Debug\Clipper CRM Software.pdb
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\bin\Debug\Newtonsoft.Json.dll
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\bin\Debug\System.Net.Http.Formatting.dll
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\bin\Debug\System.Web.Http.dll
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\bin\Debug\System.Web.Http.SelfHost.dll
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\bin\Debug\Newtonsoft.Json.xml
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\bin\Debug\System.Net.Http.Formatting.xml
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\bin\Debug\System.Web.Http.xml
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\bin\Debug\System.Web.Http.SelfHost.xml
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\obj\Debug\Clipper CRM Software.csprojResolveAssemblyReference.cache
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\obj\Debug\Clipper_CRM_Software.Admin_Control_Panel.resources
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\obj\Debug\Clipper_CRM_Software.Login.resources
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\obj\Debug\Clipper_CRM_Software.ManagerPanel.resources
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\obj\Debug\Clipper_CRM_Software.Properties.Resources.resources
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\obj\Debug\Clipper CRM Software.csproj.GenerateResource.Cache
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\obj\Debug\Clipper CRM Software.exe
+F:\Visual studio back up\Clipper CRM Software\Clipper CRM Software\obj\Debug\Clipper CRM Software.pdb
